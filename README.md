@@ -1,5 +1,8 @@
 # Ansistrano Docker image
-A Docker image based on python:3.5-alpine with Ansible and [Ansistrano Deploy](https://github.com/ansistrano/deploy).  
+A Docker image based on python:3.8-alpine with Ansible and [Ansistrano Deploy 2.2](https://github.com/ansistrano/deploy).  
+
+## Tags
+[See Docker hub for available tags](https://hub.docker.com/repository/docker/kissmy/ansistrano).
 
 ## Usage
 First you need to [setup Ansistrano to deploy your app](https://github.com/ansistrano/deploy#installation).  
